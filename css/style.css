@@ -9,6 +9,7 @@ body{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+        font-family: 'Science Gothic', sans-serif;
 
 }
 .body-index{
@@ -119,4 +120,39 @@ nav{
     border-radius: 5px;
     font-weight: bold;
     margin-top: 20px;
+}
+
+.submit-button:hover {
+    background-color: #5292ff;
+}
+
+.result-container {
+    background-color: rgba(30, 60, 114, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.result-text {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #1e3c72;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+    font-family: 'Science Gothic', sans-serif;
+}
+
+.footer a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.body-results{
+    font-family: 'Science Gothic', sans-serif;
 }

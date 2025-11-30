@@ -9,9 +9,9 @@
 <body class="body-index">
     <nav>
         <ul class="nav-links">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="quiz.html">Quiz</a></li>
-            <li><a href="results.html">Results</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="quiz.php">Quiz</a></li>
+            <li><a href="results.php">Results</a></li>
         </ul>
     </nav>
     <h1 class="title"> Had you think about which character of Blue Lock you relate to the most? </h1>
@@ -19,7 +19,7 @@
     <div class="container">
         <div class="content">
             <p>Welcome to the Blue Lock character quiz! Discover which character from the popular series Blue Lock you resonate with the most. Take the quiz to find out if you're more like Yoichi Isagi, Rensuke Kunigami, or another exciting character. <br> <br>Click the link below to start your journey!</p>
-            <a href="quiz.html" class="start-quiz-button">Start Quiz</a>
+            <a href="quiz.php" class="start-quiz-button">Start Quiz</a>
             <img src ="img/image.png" alt="BLIsagi" class="isagi">
         </div>
         

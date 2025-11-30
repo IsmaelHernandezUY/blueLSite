@@ -9,8 +9,8 @@
 <body class="body-quiz">
     <nav>
         <ul class="nav-links">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="quiz.html">Quiz</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="quiz.php">Quiz</a></li>
             <li><a href="results.php">Results</a></li>
         </ul>
     </nav>
