@@ -1,5 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Science+Gothic:wght@100..900&display=swap');
 
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f0f4f8;
+    color: #ffffff;
+    background-image: url(../img/ChatGPT\ Image\ 29\ nov\ 2025\,\ 05_23_47\ p.m..png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.body-index{
+    font-family: 'Science Gothic', sans-serif;
+}
 .title{
     background: linear-gradient(to right, #1e3c72, #5292ff);
     background-clip: text;
@@ -29,4 +43,80 @@
 
 nav{
     background-image:url(../img/blue-banner-background-vector.jpg);
+}
+
+.isagi{
+    display: block;
+    margin: 20px auto;
+    max-width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.content {
+    background-color: rgba(30, 60, 114, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.6;
+}
+.start-quiz-button {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: #1e3c72;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.start-quiz-button:hover {
+    background-color: #5292ff;
+}
+.body-quiz{
+    font-family: 'Science Gothic', sans-serif;
+}  
+.question-container {
+    background-color: rgba(30, 60, 114, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.question-text {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.container-quiz {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.quiz-content {
+    background-color: rgba(30, 60, 114, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.submit-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #1e3c72;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 20px;
 }
